@@ -27,5 +27,4 @@ José Cleber Alves da Cruz Mendes
 Curso: Engenharia da Computação – Uniube
 
 
-
-**Exercício desenvolvido durante as aulas de Python.**
+Exercício desenvolvido durante as aulas de Python.
