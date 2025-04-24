@@ -52,10 +52,15 @@ Caso seja necessário, adicione outras verificações para tratar outros valores
 Se o usuário inserir os seguintes valores:
 
 Quantas leituras de sensores você deseja inserir? 5
+
 Digite o valor da leitura 1: 10
+
 Digite o valor da leitura 2: NaN
+
 Digite o valor da leitura 3: Inf
+
 Digite o valor da leitura 4: -Inf
+
 Digite o valor da leitura 5: 5
 
 A saída será:
