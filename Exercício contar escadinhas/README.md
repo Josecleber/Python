@@ -16,5 +16,8 @@ Número de escadinhas: 2
 ```
 
 ## Autor
+José Cleber Alves da Cruz Mendes  
+Curso: Engenharia da Computação – Uniube
+
 
 Exercício desenvolvido durante as aulas de Python.
