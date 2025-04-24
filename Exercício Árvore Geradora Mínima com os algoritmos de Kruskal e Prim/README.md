@@ -27,7 +27,8 @@ Arestas da Árvore Geradora Mínima (Kruskal):
 Arestas da Árvore Geradora Mínima (Prim):
 [(0, 2, {'weight': 1}), (1, 2, {'weight': 2}), (3, 4, {'weight': 3}), (1, 3, {'weight': 5})]
 
-Nota: Ambas as árvores resultam na mesma estrutura, pois são soluções mínimas, mas os caminhos podem variar em grafos maiores.
+
+**Nota:** Ambas as árvores resultam na mesma estrutura, pois são soluções mínimas, mas os caminhos podem variar em grafos maiores.
 
 ## Autor
 José Cleber Alves da Cruz Mendes  
