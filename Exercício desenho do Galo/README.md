@@ -5,6 +5,7 @@ Este projeto implementa o desenho de um **galo** utilizando primitivas gráficas
 # Como Executar
 
 Execute o código Python para desenhar o galo:
+
 python galo.py
 
 # O Desenho
