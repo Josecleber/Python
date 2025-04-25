@@ -1,6 +1,8 @@
 # Análise e Otimização de Malhas de Trânsito em Uberlândia/MG
 
-Projeto final da disciplina: modelagem e análise de tráfego utilizando grafos aplicados à malha viária de Uberlândia.
+Projeto final da disciplina: 
+
+modelagem e análise de tráfego utilizando grafos aplicados à malha viária de Uberlândia.
 
 ---
 
