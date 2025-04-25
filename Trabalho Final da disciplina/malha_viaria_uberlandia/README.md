@@ -76,20 +76,9 @@ Luiz Gustavo Moreira Lima
 
 Bryan Henrique Oliveira Evangelista
 
+Projeto apresentado na UNIUBE, 2024.
+
 Curso: Engenharia da Computação – Uniube
 
 
 **Exercício desenvolvido durante as aulas de Python.**
-
-Projeto apresentado na UNIUBE, 2024.
-
----
-
-###  `requirements.txt`
-
-```txt
-osmnx
-networkx
-matplotlib
-geopandas
-folium
