@@ -1,9 +1,3 @@
-
----
-
-### `requirements.txt`
-
-```txt
 osmnx
 networkx
 matplotlib
